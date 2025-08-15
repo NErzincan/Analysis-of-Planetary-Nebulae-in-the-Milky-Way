@@ -1,0 +1,2 @@
+Trend Line Equation: y = -0.13x + 9.85
+R-squared Value: 0.0032
